@@ -6,7 +6,7 @@ A small simple script for DC++ servers hosted through ptokax.
 ***  
 *** 		!commands -> Display this list of commands
 *** 		!attack <target> -> Launch a random attack at a target
-*** 		Example: !attack Dean S/W -> supersonic_ht hit Dean S/W with a cricket bat
+*** 		Example: !attack "the fridge" -> supersonic_ht hit the fridge with a cricket bat
 *** 		!throw <target> -> Throw a random object at a target (Place target within quotes for multiple words)
 *** 		!throw <target> <object> -> Throw a specified object at a target
 *** 		Example: !throw Admin -> supersonic_ht threw a calculator at Admin
